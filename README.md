@@ -1,7 +1,6 @@
 # FileOrganizerExtension
 (publishing under review on Chrome Web Store)
 
-Organize your downloads into specific directories based on file types.
 Simply clone the repository or download the Code zip file and load the unpacked extension folder locally in Chrome browser.
 
 Follow the below steps to get to know how to use the extension :-
