@@ -1,7 +1,7 @@
 # FileOrganizerExtension
 (publishing under review on Chrome Web Store)
 
-Simply clone the repository or download the Code zip file and load the unpacked extension folder locally in Chrome browser.
+Simply clone the repository or download the Code zip file and load the unpacked extension folder (file-organizer-ext-publish) locally in Chrome browser.
 
 Follow the below steps to get to know how to use the extension :-
 
