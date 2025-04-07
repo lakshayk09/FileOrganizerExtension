@@ -1,5 +1,5 @@
 # FileOrganizerExtension
-(publishing under review on Chrome Web Store)
+[(Chrome Web Store Link)](https://chromewebstore.google.com/detail/downloads-file-organizer/adfacofdeadgjimmjhflajjjiafhfnbo)
 
 Simply clone the repository or download the Code zip file and load the unpacked extension folder (file-organizer-ext-publish) locally in Chrome browser.
 
